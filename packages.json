@@ -26,5 +26,9 @@
     {
         "package": "unusualprofile",
         "url": "https://github.com/wjschne/unusualprofile"
+    },
+    {
+        "package": "ggdiagram",
+        "url": "https://github.com/wjschne/ggdiagram"
     }
 ]
